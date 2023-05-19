@@ -1,0 +1,47 @@
+body{
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+    font-size: 10px;
+}
+.primerBloque{
+    display: flex;
+    flex-direction:row;
+    background-color: aqua;
+    margin: 20px 20px 20px;
+    justify-content: space-between;
+
+}
+.segundoBloque{
+    display: flex;
+    background-color: pink;
+    padding: 10px 10px 10px;
+    margin: 20px 20px 20px;
+    justify-content: space-between;
+}
+.tercerBloque{
+    display: flex;
+    background-color: white;
+    margin: 20px 0px 0px;
+    margin: 20px 20px 20px;
+    justify-content: space-between
+}
+img.first {
+    height: 200px;
+}
+img.second {
+    height: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+img.third {
+    height: 200px;
+
+}
